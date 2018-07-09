@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id = "com.sajo8trtl.trtlpaperwalletgenerator"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>TurtleCoin Paper Wallet Generator</name>
+
+  <description>
+      TurtleCoin Paper Wallet Generator
+
+      This app lets you quickly generate a paper wallet for TurtleCoin, a fun, fast and easy cryptocurrency. Your keys are 100% safe, and you can check the source for this tool at- https://github.com/turtlecoin/paper-turtle.git
+
+      Know that you cannot spend or view your funds with yet, you have to download a desktop wallet for that (web wallet and mobile wallet in the works!). 
+
+      You can learn more about TurtleCoin at- https://turtlecoin.lol
+      Come and chat with us over at- http://chat.turtlecoin.lol
+
+      Enjoy! :)
+  </description>
+
+  <author href="https://turtlecoin.lol" email="sajo8@protonmail.com">
+      Sajo8TRTL
+  </author>
+
+  <platform name="android" />
+
+</widget>
